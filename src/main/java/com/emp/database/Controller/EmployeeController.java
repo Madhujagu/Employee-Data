@@ -20,4 +20,5 @@ public class EmployeeController
 	{
 		return empServe.getAllStudentDetails();
 	}
+	
 }
